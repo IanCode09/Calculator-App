@@ -1,0 +1,36 @@
+input {
+    width: 100px;
+    height: 80px;
+    font-size: 45px;
+    border-radius: 10px;
+    margin: 5px;
+    background-color: rgb(29, 3, 77);
+    color: white;
+    border-style: none;
+}
+
+#myForm {
+    margin-left: 450px;
+    margin-top: 30px;
+}
+
+h1{
+    margin-top: 40px;
+    text-align: center;
+    font-size: 40px;
+    color: blue;
+}
+
+.show-result {
+    width: 430px;
+    background-color: rgb(116, 2, 2);
+    color: white;
+    border-style: none;
+    font-size: 40px;
+    text-align: center;
+}
+
+.operator-button {
+    background-color: rgb(143, 6, 81);
+    cursor: pointer;
+}
